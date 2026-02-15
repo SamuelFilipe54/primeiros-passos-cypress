@@ -1,0 +1,1 @@
+My first automation with Cypress
